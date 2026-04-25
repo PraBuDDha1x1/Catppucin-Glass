@@ -152,11 +152,12 @@ You can use this however you like, but I personally use it without a Windows tas
 
 
 <img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />  
-<br><br>
+<br><br> 
+
 For a complete setup, I personally use [Windhawk](https://windhawk.net/) with the Squircle taskbar mod for a minimal-style taskbar at the bottom, keeping the YASB bar clean and distraction-free at the top.
 
 
-
+<br><br>
 <img width="1919" height="1079" alt="Screenshot 2026-04-25 152203" src="https://github.com/user-attachments/assets/504c0bd0-b6ef-4bcc-bc9b-a5833a0b6718" />
 
 
