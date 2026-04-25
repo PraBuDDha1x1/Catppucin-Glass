@@ -64,7 +64,7 @@ Click the Windows icon on the far left to open the power menu.
 
 <img width="1919" height="1069" alt="Power Menu" src="https://github.com/user-attachments/assets/cbdec2d2-c0d8-4392-bc8d-33cbfe9d4007" />
 
-&nbsp
+<br><br>
 
 Options: Shut Down · Restart · Lock · Sign Out · Hibernate · Sleep · Cancel
 
