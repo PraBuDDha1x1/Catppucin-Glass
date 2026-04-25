@@ -108,6 +108,7 @@ The pill-shaped group in the center contains quick launch icons:
 | 🔍 | Opens Windows Settings search — I personally use [Flow Launcher](https://www.flowlauncher.com/) instead of Windows Search, which is why this opens Settings search rather than the default |
 | ⋮⋮⋮ | Opens Komorebi Control menu — start, stop, or reload Komorebi |
 | 🏞️ | Opens Wallpaper Gallery — browse and set wallpapers from your folder |
+| 📊 | Opens Task Manager 
 | `>_` | Opens Windows Terminal as **Administrator** — use with caution |
 | 🎚️ | Opens Windows Quick Settings |
 
@@ -115,7 +116,7 @@ The pill-shaped group in the center contains quick launch icons:
 
 <img width="1919" height="1010" alt="Komorebi Control" src="https://github.com/user-attachments/assets/31220426-895a-401a-9cc8-1c0773dca3a3" />
 
-Komorebi starts automatically on boot via `komorebic start --whkd`. Use this menu if you need to manually restart or stop it.
+Komorebi starts automatically on boot via `komorebic start --whkd`. Use this menu if you need to manually restart or stop it or pause it.
 
 ---
 
@@ -147,9 +148,11 @@ Shows WiFi signal strength percentage. **Left click** opens the WiFi network men
 
 You can use this however you like, but I personally use it without a Windows taskbar. Everything you need like app switching, system stats, media, workspaces  is right here at the top. For launching apps, [Flow Launcher](https://www.flowlauncher.com/) is recommended as a fast keyboard-driven launcher.
 
+<img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />
+
+
 For a complete setup, I personally use [Windhawk](https://windhawk.net/) with the Squircle taskbar mod for a minimal-style taskbar at the bottom, keeping the YASB bar clean and distraction-free at the top.
 
-<img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-25 152203" src="https://github.com/user-attachments/assets/504c0bd0-b6ef-4bcc-bc9b-a5833a0b6718" />
 
