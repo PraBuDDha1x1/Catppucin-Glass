@@ -65,7 +65,6 @@ Click the Windows icon on the far left to open the power menu.
 <img width="1919" height="1069" alt="Power Menu" src="https://github.com/user-attachments/assets/cbdec2d2-c0d8-4392-bc8d-33cbfe9d4007" />
 
 <br><br>
-
 Options: Shut Down · Restart · Lock · Sign Out · Hibernate · Sleep · Cancel
 
 Uptime is shown at the bottom of the power menu.
@@ -96,7 +95,7 @@ Shows currently playing track from Spotify, Apple Music, or any media source. No
 
 - **Left click** — opens media popup with album art, progress bar and volume
 - **Right click** — toggles between `Song - Artist` and `Artist - Song` display
-
+<br><br>
 <img width="1919" height="1021" alt="Media Player" src="https://github.com/user-attachments/assets/d7448717-df06-46ef-8f88-15e5079ae647" />
 
 ---
@@ -117,7 +116,7 @@ The pill-shaped group in the center contains quick launch icons:
 **Komorebi Control popup:**
 
 <img width="1919" height="1010" alt="Komorebi Control" src="https://github.com/user-attachments/assets/31220426-895a-401a-9cc8-1c0773dca3a3" />
-
+<br><br>
 Komorebi starts automatically on boot via `komorebic start --whkd`. Use this menu if you need to manually restart or stop it or pause it.
 
 ---
@@ -139,9 +138,9 @@ Replace `YourName` with your Windows username and `YourWallpaperFolder` with the
 
 ### WiFi Widget (Right)
 Shows WiFi signal strength percentage. **Left click** opens the WiFi network menu.
-
+<br><br>
 <img width="1919" height="1011" alt="WiFi Menu" src="https://github.com/user-attachments/assets/73648a9c-183e-4223-a6d4-575c01b6e92c" />
-
+<br><br>
 **Right click** toggles between signal percentage and network name.
 
 ---
@@ -153,10 +152,7 @@ You can use this however you like, but I personally use it without a Windows tas
 
 
 <img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />  
-
-
-
-
+<br><br>
 For a complete setup, I personally use [Windhawk](https://windhawk.net/) with the Squircle taskbar mod for a minimal-style taskbar at the bottom, keeping the YASB bar clean and distraction-free at the top.
 
 
