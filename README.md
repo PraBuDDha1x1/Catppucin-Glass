@@ -174,6 +174,11 @@ For a complete setup, I personally use [Windhawk](https://windhawk.net/) with th
 | Segoe UI Variable | System UI font | Included with Windows 11 |
 | LibreHardwareMonitor | CPU temp readings | [GitHub Releases](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases) |
 
+
+**Liked the theme? Dont forget to give me a ⭐ on this github repo | [Repository link](https://github.com/PraBuDDha1x1/Catppucin-Glass) |**
+
+**Thanks for reading this much Here's a Cookie for the road: 🍪**
+
 ---
 
 ## Credits
