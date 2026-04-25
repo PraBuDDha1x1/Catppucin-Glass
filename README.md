@@ -49,10 +49,10 @@ Then delete the entire `cpu_temp:` widget block from the widgets section.
 ## Bar Layout
 
 ```
-[ ⊞  ○ ━━━ ○ ○ ○  App Name ]   [ Date · Media Controls · Apps ]   [ RAM · Temp · WiFi · Vol · Bat · 🔔 ]
-  ↑        ↑          ↑                ↑          ↑            ↑                ↑      ↑      ↑
-Power   Workspaces  Active          Clock      Media        Center            Memory  CPU   WiFi
-Menu               Window                     Player       Grouper           Widget  Temp  Menu
+[ ⊞  ○ ━━━ ○ ○ ○  App Name ]   [ Date · Media Controls · Apps ]   [  RAM ·  Temp  ·  WiFi  · Vol · Bat · 🔔 ]
+  ↑        ↑          ↑             ↑          ↑            ↑         ↑        ↑       ↑
+Power   Workspaces  Active         Clock      Media        Center     Memory  CPU     WiFi
+Menu               Window                     Player       Grouper    Widget  Temp    Menu
 ```
 
 ---
@@ -148,10 +148,15 @@ Shows WiFi signal strength percentage. **Left click** opens the WiFi network men
 
 You can use this however you like, but I personally use it without a Windows taskbar. Everything you need like app switching, system stats, media, workspaces  is right here at the top. For launching apps, [Flow Launcher](https://www.flowlauncher.com/) is recommended as a fast keyboard-driven launcher.
 
-<img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />
+
+
+<img width="1919" height="1077" alt="Full Setup" src="https://github.com/user-attachments/assets/282259d8-5af2-4d63-b54c-0b5330446c04" />  
+
+
 
 
 For a complete setup, I personally use [Windhawk](https://windhawk.net/) with the Squircle taskbar mod for a minimal-style taskbar at the bottom, keeping the YASB bar clean and distraction-free at the top.
+
 
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-25 152203" src="https://github.com/user-attachments/assets/504c0bd0-b6ef-4bcc-bc9b-a5833a0b6718" />
@@ -174,6 +179,6 @@ For a complete setup, I personally use [Windhawk](https://windhawk.net/) with th
 
 ## Credits
 
-Built with [YASB](https://github.com/amnweb/yasb) by amnweb. Inspired by the design of yasb-OO4.
+Built with [YASB](https://github.com/amnweb/yasb) by amnweb. Inspired by the design of yasb-004.
 Catppuccin color palette by [catppuccin](https://github.com/catppuccin/catppuccin).
 Theme by [PRABUDDHA1x1](https://github.com/PRABUDDHA1x1).
