@@ -147,7 +147,7 @@ Shows WiFi signal strength percentage. **Left click** opens the WiFi network men
 
 ## Final Note
 
-You can use this however you like, but I personally use it without a Windows taskbar. Everything you need like app switching, system stats, media, workspaces  is right here at the top. For launching apps, [Flow Launcher](https://www.flowlauncher.com/) is recommended as a fast keyboard-driven launcher.
+You can use this however you like, but I personally use it with a modded version of Windows taskbar. Everything you need like essential apps (Settings,Terminal you can open directly from the center grouper), system stats, media, workspaces  is right here at the top. For launching apps, [Flow Launcher](https://www.flowlauncher.com/) is recommended as a fast keyboard-driven launcher.
 
 
 
