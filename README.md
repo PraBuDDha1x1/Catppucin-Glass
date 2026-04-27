@@ -134,6 +134,8 @@ wallpapers:
 ```
 Replace `YourName` with your Windows username and `YourWallpaperFolder` with the name of your wallpaper folder.
 
+if you want some wallpapers here is a collection of some that may look great with the current theme and even with other themes i personally use it too.[walls](https://github.com/PraBuDDha1x1/Walls)
+
 ---
 
 ### WiFi Widget (Right)
